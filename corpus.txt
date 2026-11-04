@@ -1,0 +1,13 @@
+Library Information
+
+The library is open from 8:00 AM to 8:00 PM Monday through Friday.
+
+Students can borrow books for 14 days.
+
+Late fees are $1 per day for overdue books.
+
+The library has 10 study rooms.
+
+Study rooms can be reserved for up to 2 hours.
+
+Printing costs $0.10 per page.
